@@ -1,3 +1,9 @@
+## Team Alpha
+	Eisha Attaria 
+	Mustafa
+	Tanzir
+	Sohail
+
 # Meridian Books
 
 The online shop for Meridian Books, an independent bookseller. This is the starter application for **LD6049 DevOps Principles**.
